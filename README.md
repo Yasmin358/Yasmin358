@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yasmin358
+<h4> Olá Estranho! <img src="./Images/handWave.gif" width="30px"></h4>
 - 👀 I’m interested in game programming and digital art
 - 🌱 I’m currently learning javaScript
 - 📫 How to reach me - amorin.yasmin378@gmail.com
