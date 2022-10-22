@@ -1,4 +1,5 @@
 <h1> <img src="./Images/handWave.gif" width="30px"> Olá Estranho! Meu nome é Yasmin.</h1>
+<img align="right" src="./Images/icodelikeagirl.gif" width="200">
 <h3>
 :bulb: Eu sou uma Desenvolvedora Frontend, apaixonada por arte e tecnologia!</br>
 :mortar_board: Eu sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">TRYBE</a></br> 
