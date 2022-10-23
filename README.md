@@ -26,7 +26,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40 " height="40"/>     <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="40" height="40"/>
 </p>
-<h1><samp> Estatísticas do Meu Github </samp></h1>
+<h1><img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/police-car-light_1f6a8.gif" width="30" height="30"/><samp> Estatísticas do Meu Github </samp></h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmin358&show_icons=true&count_private=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=buefy&layout=compact)
