@@ -31,6 +31,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmin358&show_icons=true&count_private=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=buefy&layout=compact)
 
+<h1> <img src="./Images/mobile-phone" width="30px"><samp> Onde me encontrar </samp></h1>
+
+<p> 
+   <img src="./Images/Linkedin.png" width="30px"><samp><a href="https://www.linkedin.com/in/yasminamorins"> yasminamorins </a> </samp>
+   <img src="./Images/Gmail.png" width="30px"><samp><a href="mailto:amorin.yasmin378@gmail.com"> amorin.yasmin378 </a> </samp>
+   <img src="./Images/programming.png" width="30px"><samp> Portifolio em construção </samp>
+</p>
 <!---
 Yasmin358/Yasmin358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
