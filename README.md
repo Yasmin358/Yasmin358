@@ -2,7 +2,7 @@
 <img align="right" src="./Images/icodelikeagirl.gif" width="200">
 <h3>
 <samp>
-:bulb: Eu sou uma Desenvolvedora Frontend, apaixonada por arte e tecnologia!</br>
+:bulb: Eu sou uma Desenvolvedora Frontend, apaixonada por arte, tecnologia e criar coisas!</br>
 :mortar_board: Eu sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">TRYBE</a></br> 
 :seedling: Atualmente estou aprendendo NodeJS e outras tecnologias de Backend.</br>
 :art: No meu tempo livre eu gosto de ler, desenhar e tocar teclado.
