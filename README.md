@@ -1,15 +1,20 @@
-<h1 align="center" > <img src="./Images/handWave.gif" width="30px"><samp> Olá Estranho! Meu nome é Yasmin. </samp></h1>
+## <h1 align="center" > <img src="./Images/handWave.gif" width="30px"><samp> Olá Estranho! </samp></h1>
 <img align="right" src="./Images/icodelikeagirl.gif" width="200">
 <h3>
 <samp>
-:bulb: Eu sou uma Desenvolvedora Frontend, apaixonada por arte, tecnologia e criar coisas!</br>
-:mortar_board: Eu sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">TRYBE</a></br> 
-:seedling: Atualmente estou aprendendo NodeJS e outras tecnologias de Backend.</br>
-:art: No meu tempo livre eu gosto de ler, desenhar e tocar teclado.
+Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por arte, tecnologia e criar coisas!</br> 
+  
+## 😎 Sobre Mim
+  
+- :telescope: Atualmente estou trabalhando voluntariamente como Desenvolvedora Frontend no Instituto Merzevich. </br>
+- :seedling: Estou apendendo protipação com Figma! </br>
+- :construction: Estou construindo meu Portifolio. </br>
+- :gem: Constantemente aprofundando meu conhecimento de Frontend </br>
+- :art: No meu tempo livre eu gosto de ler, desenhar, fazer crochê e jogar The Sims.
 </samp>
 </h3>
 
-<h1> <img src="./Images/rocket.gif" width="30px"><samp> Minhas Skills </samp></h1>
+## <h1> <img src="./Images/rocket.gif" width="30px"><samp> Minhas Skills </samp></h1>
 <p align="left">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="30" height="30"/>
