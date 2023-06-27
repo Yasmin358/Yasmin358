@@ -16,7 +16,7 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
 
 ## <h1> <img src="./Images/rocket.gif" width="30px"><samp> Minhas Skills </samp></h1>
 
-### Primarias - Frontend
+### Frontend
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="30" height="30"/>
@@ -31,10 +31,15 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30 " height="30"/> </p> </br>
   
-  ### Secundaria - Backend
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/>
+  ### Backend
+  <p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="30" height="30"/>
-    <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/>
 </p>
 <h1><img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/police-car-light_1f6a8.gif" width="30" height="30"/><samp> Estatísticas do Meu Github </samp></h1>
 
