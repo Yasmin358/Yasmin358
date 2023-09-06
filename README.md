@@ -1,4 +1,4 @@
-## <h1 align="center" > <img src="./Images/handWave.gif" width="30px"><samp> Olá Estranho! </samp></h1>
+## <h1 align="center" > <img src="./Images/handWave.gif" width="30px"><samp> Olá! </samp></h1>
 <img align="right" src="./Images/icodelikeagirl.gif" width="200">
 <h3>
 <samp>
@@ -7,8 +7,7 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
 ## 😎 Sobre Mim
   
 - :telescope: Atualmente estou em busca de novas oportunidades. </br>
-- :seedling: Estou apendendo UX Design! </br>
-- :construction: Estou construindo meu Portifolio. </br>
+- :seedling: Estou aprendendo UX Design! </br>
 - :gem: Constantemente aprofundando meu conhecimento de Frontend </br>
 - :art: No meu tempo livre eu gosto de ler, desenhar, fazer crochê e jogar The Sims.
 </samp>
@@ -71,12 +70,12 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmin358&show_icons=true&count_private=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=buefy&layout=compact)
 
-<h1> <img src="./Images/mobile-phone.gif" width="30px"><samp>Não seja um estranho! Conecte-se comigo: </samp></h1>
+<h1> <img src="./Images/mobile-phone.gif" width="30px"><samp> Conecte-se comigo: </samp></h1>
 
 <p> 
    <img src="./Images/Linkedin.png" width="30px"><samp><a href="https://www.linkedin.com/in/yasminamorins"> yasminamorins </a> </samp></br>
    <img src="./Images/Gmail.png" width="30px"><samp><a href="mailto:amorin.yasmin378@gmail.com"> amorin.yasmin378 </a> </samp></br>
-   <img src="./Images/programing.png" width="30px"><samp><a href="https://my-portifolio-indol-six.vercel.app/"> Meu Portifolio</samp></br>
+   <img src="./Images/programing.png" width="30px"><samp><a href="https://my-portifolio-yasmin358.vercel.app/"> Meu Portifolio</samp></br>
 </p>
 
 <hr>
