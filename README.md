@@ -6,8 +6,8 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
   
 ## 😎 Sobre Mim
   
-- :telescope: Atualmente estou em busca de novas oportunidades. </br>
-- :seedling: Estou aprendendo UX Design! </br>
+- :telescope: Atualmente estou trabalhando na Skills Labs como voluntária em uma startup de Desenvolvimento de Software Educacionais. </br>
+- :seedling: Estou fazendo um curso de SEO e desbravando o Wordpress! </br>
 - :gem: Constantemente aprofundando meu conhecimento de Frontend </br>
 - :art: No meu tempo livre eu gosto de ler, desenhar, fazer crochê e jogar The Sims.
 </samp>
@@ -20,11 +20,14 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="jest" width="30" height="30"/>
   <img src="./Images/testing-library-red.svg" alt="react-teasting-library" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30 " height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30 " height="30"/>
+  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="nextjs" width="30 " height="30"/>
+  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-1024x615-fdeis5r1.png" alt="tailwind" width="30 " height="20"/>
+  <img src="https://mui.com/static/logo.png" alt="materialui" width="30" height="30"/>
 </p>
 
 ### Ferramentas   
@@ -41,27 +44,22 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
   <img src="https://www.appdeploynews.com/wp-content/uploads/2023/05/canva-icon.png" alt="canva" width="30" height="30"/> 
 </p> 
 
-## <h1><samp> Minhas Skills Secundárias </samp></h1>
+## <h1><samp> Minhas Skills Secundárias </samp></h1> 
+### Backend
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="30" height="30"/>
+</p>
 
 ### Desenvolvimento de jogos
   <p align="left">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="csharp" width="30" height="30"/>
   </p>
-  
-### Backend
-<p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  <img alt="Python" width="30px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
-</p>
 
 ### Ferramentas
   <p align="left">  
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="30" height="30"/>
   
 
 <h1><img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/police-car-light_1f6a8.gif" width="30" height="30"/><samp> Estatísticas do Meu Github </samp></h1>
