@@ -73,7 +73,7 @@ Meu nome é Yasmin Amorin, sou uma Desenvolvedora Web Frontend, apaixonada por a
 <p> 
    <img src="./Images/Linkedin.png" width="30px"><samp><a href="https://www.linkedin.com/in/yasminamorins"> yasminamorins </a> </samp></br>
    <img src="./Images/Gmail.png" width="30px"><samp><a href="mailto:amorin.yasmin378@gmail.com"> amorin.yasmin378 </a> </samp></br>
-   <img src="./Images/programing.png" width="30px"><samp><a href="https://https://yasminamorin.vercel.app/"> Meu Portifolio</samp></br>
+   <img src="./Images/programing.png" width="30px"><samp><a href="https://yasminamorin.vercel.app/"> Meu Portifolio</samp></br>
 </p>
 
 <hr>
